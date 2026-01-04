@@ -21,8 +21,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
