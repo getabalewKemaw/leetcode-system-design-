@@ -4,19 +4,18 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
+
+
         
         
         if not strs:
-            return ""
-        
-        prefix = ""
-        # zip(*strs) pairs up the 1st chars, then 2nd chars, etc.
+          return ""
+        prefix=""
         for characters in zip(*strs):
-            # If all characters in this column are the same
-            if len(set(characters)) == 1:
-                prefix += characters[0]
+
+        #   check  if the corresponding letter are the same or not 
+            if(len(set(characters))==1):
+              prefix +=characters[0]
             else:
-                # Mismatch found; stop immediately
-                break
-                
+                 break
         return prefix
