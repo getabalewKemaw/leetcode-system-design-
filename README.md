@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1929-concatenation-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
