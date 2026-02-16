@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0013-roman-to-integer) |
 | [0645-set-mismatch](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0018-4sum) |
 | [0645-set-mismatch](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
