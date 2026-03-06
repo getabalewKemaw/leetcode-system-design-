@@ -5,11 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def maxDepth(self,root):
+    def maxDepth(self, root):
+        """
+        :type root: Optional[TreeNode]
+        :rtype: int
+        """
+        # these is a simple problem which is can be done throgh DFS
         if not root:
-            return 0  # Base case: empty tree has 0 depth
+            return 0
+        left_depth=self.maxDepth(root.left)
+        right_depth=self.maxDepth(root.right)
+        return 1 + max(left_depth,right_depth)
         
-        left_depth = self.maxDepth(root.left)
-        right_depth = self.maxDepth(root.right)
-
-        return 1 + max(left_depth, right_depth)
+        
