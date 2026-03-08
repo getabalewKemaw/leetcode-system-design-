@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
