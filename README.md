@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
