@@ -4,6 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+
+        # :Boyer–Moore Majority Vote Algorithm
         count=0
         candidate=None
         for num in nums:
