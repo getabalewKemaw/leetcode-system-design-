@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/getabalewKemaw/leetcode-system-design-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
